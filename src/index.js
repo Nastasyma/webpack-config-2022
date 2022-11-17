@@ -2,6 +2,6 @@ import './assets/styles/style.css';
 import './assets/styles/normalize.css';
 import { formatTime, getRandomNum } from './js/helper.js';
 
-getRandomNum(1,10);
+console.log(getRandomNum(1,12))
 
 
